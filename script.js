@@ -1,5 +1,4 @@
 let number = 0
-let sentence = 'the number 3.'
 
 document.getElementById('button').addEventListener('click', addition)
 
